@@ -22,6 +22,7 @@ DB;
     - spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
    - spring.datasource.username=root
    - spring.datasource.password=root
+   ```
 # API Root Endpoint
 - https://localhost:8080/
 - http://localhost:8080/swagger-ui/
