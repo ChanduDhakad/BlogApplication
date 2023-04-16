@@ -3,9 +3,8 @@ A spring boot blog application having user, login-logout, blog, comment function
 
 
 #Technologies Used
-
--Tech Stack
--Java
+- Tech Stack
+- Java
 - Spring Framework
 - Spring Boot
 - Spring Data JPA
