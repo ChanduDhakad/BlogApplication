@@ -4,15 +4,15 @@ A spring boot blog application having user, login-logout, blog, comment function
 
 #Technologies Used
 
-Tech Stack
-Java
-Spring Framework
-Spring Boot
-Spring Data JPA
-MySQL
-Swagger UI
-Lambok
-Maven
+-Tech Stack
+-Java
+- Spring Framework
+- Spring Boot
+- Spring Data JPA
+- MySQL
+- Swagger UI
+- Lambok
+- Maven
 Installation & Run
 Before running the API server, you should update the database config inside the application.properties file.
 Update the port number, username and password as per your local database configuration.
